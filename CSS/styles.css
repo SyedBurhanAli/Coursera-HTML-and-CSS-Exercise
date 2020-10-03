@@ -31,7 +31,8 @@ body {
   border: solid;
   border-width: 1px;
   border-color: CornflowerBlue;
-  margin: 0px 2px 15px 2px;
+  /* margin: 0px 2px 15px 2px; */
+  margin: 15px 2px;
   padding: 0px 17px 5px 17px;
   border-radius: 25px;
   font-family: Verdana, Geneva, sans-serif;
